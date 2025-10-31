@@ -16,15 +16,6 @@ const Home: NextPage = () => {
       </Head>
 
       <Header />
-      {/* <header style={{ display: 'flex', justifyContent: 'space-between', padding: '1rem' }}>
-      <nav>
-        <Link href="/">Home</Link>
-        {' | '}
-        <Link href="/projects/new">Create Project</Link>
-      </nav>
-        <h1 style={{ margin: 0 }}>Whitelist Console</h1>
-        <ConnectButton />
-      </header> */}
 
       <main style={{ maxWidth: 800, margin: '0 auto', padding: '1rem' }}>
         <section style={{ border: '1px solid #ddd', borderRadius: 6, padding: 16, marginBottom: 16 }}>
